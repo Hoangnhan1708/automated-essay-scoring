@@ -39,13 +39,3 @@
 
 
 ### 3. Done!!!! Đã có thể run all ✨
-
-
-
-
-- File WHL: `https://www.kaggle.com/datasets/ctt421120403/aes-hcmus-whl`
-- File Dataset từ Competition: `Learning Agency Lab - Automated Essay Scoring`
-- File Dataset đã được xử lý từ Q1: `https://www.kaggle.com/datasets/nhanhoangtruong/aes-hcmus-data-processed`
-5. Done!! Có thể run all
-
-
